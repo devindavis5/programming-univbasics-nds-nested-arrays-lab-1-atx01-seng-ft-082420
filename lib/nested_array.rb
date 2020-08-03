@@ -33,8 +33,8 @@ def sorted_matrix
   conventional = CONVENTIONAL_PRODUCE.sort
   
   produce = [
-    organic,
-    conventional
+    conventional,
+    organic
     ]
   
   # Using Array literal syntax only, build another nested array that 
